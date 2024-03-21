@@ -17,3 +17,9 @@ ExerciciosAPIs-venc_01-03-24.pdf
 tempCodeRunnerFile.py
 .DS_Store
 .pytest_cache
+
+# Projeto Final:
+
+# Ignorar a pasta anotacoes_diversas:
+anotacoes_diversas
+# crie seu arquivo de anotações sobre o projeto dentro dessa pasta, para que seja ignorada e mantenha a privacidade do seu repositório
