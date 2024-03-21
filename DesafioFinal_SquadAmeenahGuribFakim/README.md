@@ -1,6 +1,9 @@
 <!-- AJUSTAR PARA O PROJETO FINAL -->
 
 # Squad Ameenah Guarib-Fakim: Desafio Final
+
+Editar!!
+
 Este repositório contém os códigos de três cursos oferecidos pela [Microsoft Learn](https://learn.microsoft.com/pt-br/) como parte do [Bootcamp Back-End Python e Django da WoMakersCode](https://womakerscode.org/back-end-python/). Os cursos se concentram na prática de testes em Python.
 
 ## Conteúdo do Repositório
@@ -39,3 +42,9 @@ Cada curso tem seu próprio diretório contendo o código final que foi desenvol
 | Núbia Santos Lima |
 | Pamela Casatte Pereira | 
 | Rafaela Marques |
+
+## Links:
+
+[Trello do Projeto - Metodologia Kanban](https://trello.com/invite/b/J8Ky6eXt/ATTIe37209bab10e924ed1b63ef198c933da92BC4EC4/squad-ameenah-projeto-final)
+
+[Deploy do Projeto - xx](https://)
